@@ -40,7 +40,7 @@
      <a href='https://jestjs.io/pt-BR/'>
      <img src="https://skillicons.dev/icons?i=jest"/>
     </a>
-     <a href='https://jestjs.io/pt-BR/'>
+     <a href='https://vercel.com'>
      <img src="https://skillicons.dev/icons?i=vercel"/>
     </a>
  </p>

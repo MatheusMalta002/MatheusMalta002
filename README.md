@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Matheus <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> 
+<h1 align="left">Hey there 👋</h1>
 
 ## Tech Stack
 

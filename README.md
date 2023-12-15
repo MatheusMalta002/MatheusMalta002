@@ -3,29 +3,14 @@
 ## Tech Stack
 
 <div align="left">
- <p>
-    <a href='https://www.javascript.com/'>
-      <img src="https://skillicons.dev/icons?i=js"/>
-    </a>
-    <a href='https://www.python.org'>
-      <img src="https://skillicons.dev/icons?i=python"/>
-    </a>
-    <a href='https://www.typescriptlang.org/'>
-      <img src="https://skillicons.dev/icons?i=ts"/>
-    </a>
-    <a href='https://reactjs.org/'>
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
-    <a href='https://html.com/'>
-      <img src="https://skillicons.dev/icons?i=html"/>
-    </a>
-    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href='https://www.mysql.com'>
-     <img src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
-     <img height="50px" src="https://github.com/PBIQueryous/Power-BI-Icons/blob/main/PNG/Power-BI.png?raw=true"/>
+ <p> 
+  <img height='38px' src='https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=white'/>
+  <img height='38px' src='https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white'/>
+  <img height='38px' src='https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white'/>
+  <img height='38px' src='https://img.shields.io/badge/plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=white'/>
+  <img height='38px' src='https://img.shields.io/badge/powerbi-0D1117?style=for-the-badge&logo=powerbi&logoColor=white'/>
+  <img height='38px' src='https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=white'/>
+  <img height='38px' src='https://img.shields.io/badge/reactjs-0D1117?style=for-the-badge&logo=react&logoColor=white'/>
  </p>
 </div>
 

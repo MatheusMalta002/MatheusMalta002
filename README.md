@@ -25,6 +25,7 @@
     <a href='https://www.mysql.com'>
      <img src="https://skillicons.dev/icons?i=mysql"/>
     </a>
+     <img height="50px" src="https://github.com/PBIQueryous/Power-BI-Icons/blob/main/PNG/Power-BI.png?raw=true"/>
  </p>
 </div>
 

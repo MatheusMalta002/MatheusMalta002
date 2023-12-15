@@ -4,13 +4,13 @@
 
 <div align="left">
  <p> 
-  <img height='38px' src='https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=white'/>
-  <img height='38px' src='https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white'/>
-  <img height='38px' src='https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white'/>
-  <img height='38px' src='https://img.shields.io/badge/plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=white'/>
-  <img height='38px' src='https://img.shields.io/badge/powerbi-0D1117?style=for-the-badge&logo=powerbi&logoColor=white'/>
-  <img height='38px' src='https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=white'/>
-  <img height='38px' src='https://img.shields.io/badge/reactjs-0D1117?style=for-the-badge&logo=react&logoColor=white'/>
+  <img height='30px' src='https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=white'/>
+  <img height='30px' src='https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white'/>
+  <img height='30px' src='https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white'/>
+  <img height='30px' src='https://img.shields.io/badge/plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=white'/>
+  <img height='30px' src='https://img.shields.io/badge/powerbi-0D1117?style=for-the-badge&logo=powerbi&logoColor=white'/>
+  <img height='30px' src='https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=white'/>
+  <img height='30px' src='https://img.shields.io/badge/reactjs-0D1117?style=for-the-badge&logo=react&logoColor=white'/>
  </p>
 </div>
 

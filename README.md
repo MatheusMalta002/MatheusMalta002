@@ -12,6 +12,7 @@
   <img height='30px' src='https://img.shields.io/badge/Jupyter Notebook-0D1117?style=for-the-badge&logo=jupyter&logoColor=white'/>
   <img height='30px' src='https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=white'/>
   <img height='30px' src='https://img.shields.io/badge/reactjs-0D1117?style=for-the-badge&logo=react&logoColor=white'/>
+  <img height='30px' src='https://img.shields.io/badge/kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=white'/>
  </p>
 </div>
 

@@ -9,7 +9,9 @@
 
 </br>
 
-## **Data Science, Business Intelligence e ML** 📊 
+## Habilidades 
+
+**Data Science, Business Intelligence e ML** 📊 
   
 > * ETL
   

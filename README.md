@@ -52,6 +52,7 @@
 </div>
 </br>
 
-## 🌐 Conecte-se
-<a href='https://www.linkedin.com/in/matheus-malta-b9a4b4285/'><img height='30px' src='https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=blue'/></a>
-<a href='mfsm@cin.ufpe.br'><img height='30px' src='https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=Gmail&logoColor=red'/></a>
+## 🌐 Contate-me
+* <a href='https://www.linkedin.com/in/matheus-malta-b9a4b4285/'><img height='30px' src='https://img.shields.io/badge/LinkedIn-0852C2?style=for-the-badge&logo=LinkedIn&logoColor=white'/></a>
+
+* Email: mfsm@cin.ufpe.br</a>

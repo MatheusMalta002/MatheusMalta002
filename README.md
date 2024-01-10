@@ -18,6 +18,8 @@
 > * Análise Exploratória
   
 > * Relatórios Visuais
+>   
+> * Estatística com Python
   
 > * Aprendendo conceitos e ferramentas
 

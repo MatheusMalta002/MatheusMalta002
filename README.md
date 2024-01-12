@@ -41,18 +41,11 @@
   <img height='30px' src='https://img.shields.io/badge/kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=white'/>
  </p>
 </div>
-
-<br>
  
-## GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMalta002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMalta002&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</br>
+## 
+<div> 
+  <a href = "mailto:mfsm6@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="/www.linkedin.com/in/matheus-malta-b9a4b4285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
-## 🌐 Contate-me
-* <a href='https://www.linkedin.com/in/matheus-malta-b9a4b4285/'><img height='30px' src='https://img.shields.io/badge/LinkedIn-0852C2?style=for-the-badge&logo=LinkedIn&logoColor=white'/></a>
-
-* Email: mfsm@cin.ufpe.br</a>

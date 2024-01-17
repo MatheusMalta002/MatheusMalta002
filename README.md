@@ -3,15 +3,15 @@
 <div>
 &nbsp; <img  width="350px" height="350px" align="right" src='https://github.com/MatheusMalta002/MatheusMalta002/assets/104574086/28c3bb23-963b-4ce6-877a-c8a36ac03341'/>  &nbsp; 
 
-<p align='left'>Estudante de Sistemas de Informação no CIn UFPE, cursando 5° período. Atualmente tenho me aprofundado no universo dos dados, buscando compreender e aplicar conceitos de análise de dados e machine learning.</p>
+<p align='left'>Estudante de Sistemas de Informação no CIn UFPE, cursando 5° período. Atualmente tenho me aprofundado no universo dos dados, buscando compreender e aplicar conceitos de análise de dados, business intelligence e machine learning.</p>
+
+Portifolio: https://portfolio-matheusmalta.vercel.app/
 
 </div>
 
 </br>
 
-## Habilidades 
-
-**Data Science, Business Intelligence e ML** 📊 
+## Habilidades 📊 
   
 > * ETL
   

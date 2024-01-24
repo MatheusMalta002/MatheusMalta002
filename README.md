@@ -16,7 +16,6 @@
 
 </div>
 
-</br>
 
 ## :pushpin: Habilidades 
 
@@ -31,7 +30,6 @@
 ```
 
   
-</br>
 
 ## Ferramentas e Linguagens 
 

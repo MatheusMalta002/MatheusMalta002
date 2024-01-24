@@ -5,9 +5,10 @@
 
 <p align='left'>Estudante de Sistemas de Informação no CIn UFPE, cursando 5° período. Atualmente tenho me aprofundado no universo dos dados, buscando compreender e aplicar conceitos de análise de dados, business intelligence e machine learning.</p>
 
+Portfolio: https://portfolio-matheusmalta.vercel.app/
 
 ```Markdown
-* Portfolio: https://portfolio-matheusmalta.vercel.app/
+
 
 * Aprendendo conceitos e ferramentas 🚀
 

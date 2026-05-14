@@ -3,7 +3,7 @@
 <div>
 &nbsp; <img  width="250px" height="250px" align="right" src='https://github.com/MatheusMalta002/MatheusMalta002/assets/104574086/28c3bb23-963b-4ce6-877a-c8a36ac03341'/>  &nbsp; 
 
-<p align='left'>Estudante de Sistemas de Informação no CIn UFPE, cursando 5° período. Atualmente tenho me aprofundado no universo dos dados, buscando compreender e aplicar conceitos de análise de dados, business intelligence e machine learning.</p>
+<p align='left'>Analista de dados com mais de 2 anos de experiência na área, grauado em sistemas de informação pleo Centro de Informática da UFPE. Atualmente aprofunda seu conhecimento em engeharia de dados e arquitetura cloud</p>
 
 Portfolio: https://portfolio-matheusmalta.vercel.app/
 
